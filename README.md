@@ -7,6 +7,8 @@ Merupakan aplikasi terschedule yang membaca sebuah file csv dan memvalidasi data
 - OS : windows 10
 - spring boot versi 2.5.3
 - Maven 3.8.1
+- hibernate
+- java 1.8
  
 
 ## Code information
